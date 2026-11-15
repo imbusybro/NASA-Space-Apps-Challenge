@@ -6,9 +6,9 @@ above zero:
 
 | Meter | What it does |
 |-------|--------------|
-| ⚡ Power | Runs lights, heaters and air machines |
-| 🫁 Oxygen | What the crew breathes |
-| 🛡️ Shielding | Blocks harmful space radiation |
+| Power | Runs lights, heaters and air machines |
+| Oxygen | What the crew breathes |
+| Shielding | Blocks harmful space radiation |
 
 Each sol brings one event (solar flares, radiation storms, a clogged air filter,
 dusty solar panels, rationing and more). **Every choice helps one thing and costs
